@@ -1,4 +1,4 @@
-## Cross_River_State_Outlier Analysis
+## Cross_River_State_Outlier_Election_Analysis
 
 ## Introduction
 ![](CoverPage.png)
