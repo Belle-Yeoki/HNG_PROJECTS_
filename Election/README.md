@@ -1,7 +1,8 @@
 ## Cross_River_State_Outlier_Election_Analysis
 
-## Introduction
 ![](CoverPage.png)
+
+## Introduction
 This report presents a geospatial analysis and outlier detection of polling unit results in Cross River State.
 
 ## Methodology
