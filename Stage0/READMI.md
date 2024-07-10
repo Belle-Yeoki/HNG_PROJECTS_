@@ -3,7 +3,8 @@
 
 ## Introduction
 This sales dataset features 7 distinct product lines, including classic cars, vintage cars, planes, ships, motorcycles, trains, and trucks and buses, spanning 19 different countries and companies. The dataset comprises 25 columns and 2,824 rows.
-OBSERVATION:It includes dependent variable details such as customer data and product information, like customer name, city, product line, order date, quantity, and price, represented in numerical, string, and date data types. However, two columns—Address Line and State—contain the most null values, and several columns, such as address, phone number, and postal codes, exhibit inconsistent data.
+
+OBSERVATION :It includes dependent variable details such as customer data and product information, like customer name, city, product line, order date, quantity, and price, represented in numerical, string, and date data types. However, two columns—Address Line and State—contain the most null values, and several columns, such as address, phone number, and postal codes, exhibit inconsistent data.
 
 ## Data Source
 Link to the data set: https://www.kaggle.com/datasets/kyanyoga/sample-sales-data Retail Dataset in Kaggle
