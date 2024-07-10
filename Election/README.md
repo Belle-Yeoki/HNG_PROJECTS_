@@ -38,6 +38,17 @@ The dataset contains the following columns:
 ## Summary of Findings
 The Cross River Dataset indicates there are 124 distinct Local Government Areas in Cross River State. 340,000 votes were cast, with 367,000 people accredited to vote, and 81,000 votes deemed invalid. Voting took place in 238 distinct wards across 2,642 polling units throughout the state. Outlier scores for each polling unit were calculated for the four major parties: APC, PDP, LP, and NNPP. The results are summarized in the following visuals highlighting the top three outliers for each party showing the over-voting of those political parties in the polling units.
 ## Data Visualization
+![](APC.png)
+# APC Outliers
+ The above polling units show a significant deviation in APC vote counts compared to its neighboring units within a 500-meter radius. The high outlier score suggests potential anomalies or distinct voting patterns at this location
+ ![](LP.png)
+ # LP Outliers
+ "YACHE” The LP vote count at this ward is significantly higher than its neighbors, indicating an outlier. This could point to specific local influences or irregularities.
+ ![](PDP.png)
+ 
+ ![](NNPP.png)
+ This aforementioned polling unit stands out with a high NNPP outlier score, suggesting a unique voting behavior.
+
 ##   Insights
 ●	Several polling units exhibited vote counts that significantly deviated from their neighbors, indicating potential anomalies or unique local factors.
 
