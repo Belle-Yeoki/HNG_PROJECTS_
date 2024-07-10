@@ -19,16 +19,17 @@ An ARIMA model was used to forecast future precipitation, which is a critical fa
 2.	 Fitting the ARIMA model to historical monthly precipitation data.
 3.	Forecasting: Predicting future monthly precipitation values to identify periods of high flood risk.
 ## CODE
-
-  	
-
-
-
-  	
+see files.
 ## INSIGHTS
 Precipitation: Historical data shows periods of high and low precipitation. Significant peaks are potential indicators of past flood events.
 •	Temperature, Humidity, and Wind Speed: These factors were analyzed but did not show strong direct correlations with floods compared to precipitation.
 Predicted Precipitation
 The ARIMA model forecasted monthly precipitation for the next 12 months. The forecast shows periods of higher precipitation, which may indicate potential flood risk.
 ## VISUALIZATION
+![]()
+
+## ANALYSIS
+The forecasted flood predictions show a potential decrease in flood risk compared to historical events
+## CONCLUSION
+Based on my analysis no flood days are predicted within the forecast period using the defined threshold.
 
