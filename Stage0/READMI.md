@@ -24,7 +24,7 @@ The following Power BI features were incorporated:
 
 ## Visualization
 To enhance storytelling with my visuals, I utilized bar charts, treemaps, pie charts, and cards in a dashboard. The dashboard is shown below.
-![](SALESVISUAL.png)
+![Uploading SALESVISUAL.png…]()
 
 A total of $10.03 million in sales was generated from this retail operation. These sales came from 92 distinct customers, each making purchases on various occasions.
 The highest sales were from the United States, contributing about 36.16% of the total, followed by Spain at 12.12%, France at 11.07%, and Australia at 6.29%, among 19 countries.
