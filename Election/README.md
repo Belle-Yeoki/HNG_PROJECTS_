@@ -14,6 +14,7 @@ The analysis follows these steps:
  
 ## Data Overview/ Data Source
 Data Set Link :https://drive.google.com/drive/folders/173oHgms6wYy5WKz_i3Lhl5mXcmobCWHz
+
 The dataset contains the following columns:
 - State
 - LGA
@@ -42,11 +43,16 @@ The Cross River Dataset indicates there are 124 distinct Local Government Areas 
 # APC Outliers
  The above polling units show a significant deviation in APC vote counts compared to its neighboring units within a 500-meter radius. The high outlier score suggests potential anomalies or distinct voting patterns at this location
  ![](LP.png)
- # LP Outliers
+ 
+ ## LP Outliers
  "YACHE” The LP vote count at this ward is significantly higher than its neighbors, indicating an outlier. This could point to specific local influences or irregularities.
+ 
+ ## PDP OUtliers
  ![](PDP.png)
  
+ ## NNPP Outliers
  ![](NNPP.png)
+ 
  This aforementioned polling unit stands out with a high NNPP outlier score, suggesting a unique voting behavior.
 
 ##   Insights
