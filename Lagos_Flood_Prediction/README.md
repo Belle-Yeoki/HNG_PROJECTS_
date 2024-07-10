@@ -1,7 +1,9 @@
 ## INTRODUCTION
 
 Objective
+
 The report uses historical weather data to predict the likely date of the next flood in Lagos. By analyzing past weather patterns and using predictive modeling, we aim to identify periods of high flood risk.
+
 ## DATA SOURCE
 The dataset used for this analysis is combined_weather_data.csv, which contains weather data from January 1, 2004, to December 31, 2024. The dataset includes parameters such as temperature, humidity, wind speed, and precipitation. https://drive.google.com/file/d/1tHGCRXagd3xOlANdCdn_FdtYP51kq2Kl/view
 
@@ -16,7 +18,12 @@ An ARIMA model was used to forecast future precipitation, which is a critical fa
 1.	Aggregating Monthly Precipitation: Summing daily precipitation to get monthly values.
 2.	 Fitting the ARIMA model to historical monthly precipitation data.
 3.	Forecasting: Predicting future monthly precipitation values to identify periods of high flood risk.
-   CODE
+## CODE
+
+  	
+
+
+
   	
 ## INSIGHTS
 Precipitation: Historical data shows periods of high and low precipitation. Significant peaks are potential indicators of past flood events.
