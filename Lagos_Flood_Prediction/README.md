@@ -1,7 +1,7 @@
 ## LAGOS STATE FLOOD PREDICTION ANALYSIS 
-## INTRODUCTION
-![](RainCoverPage.png)
 
+![](RainCoverPage.png)
+## INTRODUCTION
 ## Objective
 
 The report uses historical weather data to predict the likely date of the next flood in Lagos. By analyzing past weather patterns and using predictive modeling, we aim to identify periods of high flood risk.
