@@ -24,8 +24,11 @@ This report presents an analysis of undervalued companies using financial data, 
 
  ## Projected Future Values
 Avnet Corp. is projected to experience substantial growth, with gross profit expected to rise from $3,182.14M to $4,219.58M, driven by a consistent growth rate of 7.31%, likely fueled by technological advancement.
+
 Air Lease Corp. is forecasted to grow rapidly, with gross profit projected to soar from $1,442.01M to $18,937.11M, positioning it as one of the fastest-growing companies in its sector.
+
 Amplify Energy Corp. is also anticipated to see significant growth, with gross profit expected to increase from $111.25M to $201.59M.
+
 Adecoagro Corp. stands out with a gross profit growth rate of 16%, leading to an impressive increase of $2,727,652,203.15. Its lower P/E and P/B ratios suggest it may be undervalued relative to its peers
 
 ## CONCLUSION
